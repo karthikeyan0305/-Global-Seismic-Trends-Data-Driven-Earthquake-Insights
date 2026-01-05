@@ -3,6 +3,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+a = 10
+print(a)
+
 # ---------- CONFIG ----------
 CLEAN_CSV = "../data/earthquakes_clean.csv"  # path to cleaned CSV
 
