@@ -44,3 +44,7 @@ Global-Sesimic/
 │
 │
 └── README.md
+
+## Improvement roadmap
+
+See `IMPROVEMENTS.md` for a prioritized plan to harden security, improve data reliability, and make the dashboard/codebase more maintainable.
